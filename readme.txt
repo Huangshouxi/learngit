@@ -5,3 +5,4 @@ Git Git Git Git.
 git push origin master.
 Create a new branch is quick. Create a new branch is quick.
 Create a new branch is quick. Create a new branch is quick.
+Create a new branch is quick $ simple.
