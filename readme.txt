@@ -3,3 +3,4 @@ Git is free sofeware distributed under the GPL.
 Git has a mutable index called stage.
 Git Git Git Git.
 git push origin master.
+Create a new branch is quick.
